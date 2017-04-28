@@ -7,4 +7,4 @@ install:
   - pip3 install matplotlib
   - pip3 install pytest
 script:
-  - test.py
+  - "test.py"
